@@ -76,7 +76,7 @@ body {
   color: white;
 }
 
-
+/*PRESENTATION SECTION*/
 
 .sectitle {
   display: flex;
@@ -103,7 +103,6 @@ body {
 .authorbox {
   display: flex;
   justify-content: space-evenly;
-  
 }
 
 .authoritem {
@@ -134,3 +133,39 @@ body {
   margin: 0px;
   color: white;
 }
+
+/* QUOTE SECTION */
+
+
+.quotesection {
+  background-color: #C271FF;
+  padding: 60px 0px;
+}
+
+.divquote {
+  display: flex;
+  justify-content: center;
+}
+
+.quotetext {
+  color: white;
+  padding-left: 40px;
+  width: 600px;
+}
+
+.parquote {
+  margin: 0px 0px 40px 0px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subtitlequote {
+  font-weight: bold;
+  margin: 0px;
+}
+
+.namequote {
+  margin: 5px 0px;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
