@@ -247,3 +247,63 @@ body {
 .videoimage {
   size: cover;
 }
+
+/*MEMBERSHIP SECTION */
+
+.membershipsection {
+  background-color: #071629;
+}
+
+.titlemember {
+  padding: 60px;
+  color: white;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+}
+
+.titlememberpro {
+  color: #C271FF;
+}
+
+.membershipoptions {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.faceimage {
+  width: 18.6rem;
+  padding: 0px 75px 0px 75px;
+}
+
+.divface {
+  width: 200px;
+  height: 200px;
+}
+
+.titleface {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+.textface {
+  color: white;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.buttonmembership {
+  background-color: #C271FF;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.divbuttonmembership {
+  padding: 15px 0px 50px 0px;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+}
